@@ -24,3 +24,5 @@ The User Will Be Prompted To :
     3. Enter The Element To Be Deleted
 
     4. Enter The Priority Of The Element
+
+The GCC File Also Have Been Pushed.
